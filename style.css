@@ -1,6 +1,6 @@
 * {
     justify-content: space-around;
-    background-color: #DCF6FD;
+
 }
 
 .header{
@@ -45,4 +45,12 @@
         background-color:#5E5CE6;
         text-align: left;
         
+    }
+    .content {
+        width: 55%;
+        margin: 0 auto;
+       background-color: #5E5CE6;
+        background-size: cover; 
+        background-position: center center;
+        background-repeat: no-repeat
     }
